@@ -1,0 +1,88 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.zackmon99.android.liblifeconnect",
+    "module": "library",
+    "version": "1.0",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "6.7",
+      "buildId": "ow2vm5srmrdw3falc4doczfl3e"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 14,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api",
+        "org.jetbrains.kotlin.localToProject": "public",
+        "org.jetbrains.kotlin.platform.type": "jvm"
+      },
+      "files": [
+        {
+          "name": "library-1.0.jar",
+          "url": "library-1.0.jar",
+          "size": 7404,
+          "sha512": "2f069e65dd69ae0c9fb9ddd859e3c6a01e655d253f6e69b9cb6362a4eb6d6cde33464a7a08fa8fc94fffaec2b3eea178c70b15e69c5ed78860058f27a81af6fd",
+          "sha256": "3a96e43c537b15a44b94430d012cc9053a51ce9a2e31679e6c50f9acb86ef756",
+          "sha1": "377c54326a6bc300e4fac8dc89a40e3c73eb6ce4",
+          "md5": "bbeb31df9fd5acc6f5656fe861d251f9"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 14,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime",
+        "org.jetbrains.kotlin.localToProject": "public",
+        "org.jetbrains.kotlin.platform.type": "jvm"
+      },
+      "dependencies": [
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-jdk8",
+          "version": {
+            "requires": "1.4.10"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlinx",
+          "module": "kotlinx-serialization-core",
+          "version": {
+            "requires": "1.0.1"
+          }
+        },
+        {
+          "group": "com.google.code.gson",
+          "module": "gson",
+          "version": {
+            "requires": "2.8.6"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "library-1.0.jar",
+          "url": "library-1.0.jar",
+          "size": 7404,
+          "sha512": "2f069e65dd69ae0c9fb9ddd859e3c6a01e655d253f6e69b9cb6362a4eb6d6cde33464a7a08fa8fc94fffaec2b3eea178c70b15e69c5ed78860058f27a81af6fd",
+          "sha256": "3a96e43c537b15a44b94430d012cc9053a51ce9a2e31679e6c50f9acb86ef756",
+          "sha1": "377c54326a6bc300e4fac8dc89a40e3c73eb6ce4",
+          "md5": "bbeb31df9fd5acc6f5656fe861d251f9"
+        }
+      ]
+    }
+  ]
+}
