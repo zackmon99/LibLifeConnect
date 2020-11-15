@@ -1,6 +1,4 @@
 import com.google.gson.annotations.SerializedName
-import kotlinx.serialization.Serializable
-
 
 data class CommanderDamageData(
     @SerializedName("playerNum")

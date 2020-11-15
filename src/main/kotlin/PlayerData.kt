@@ -1,7 +1,5 @@
 import java.util.*
 import com.google.gson.annotations.SerializedName
-import kotlinx.serialization.Serializable
-
 
 data class PlayerData (
     @SerializedName("gameId")

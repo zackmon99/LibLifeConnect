@@ -1,5 +1,4 @@
 import com.google.gson.annotations.SerializedName
-import kotlinx.serialization.Serializable
 import java.util.*
 
 
