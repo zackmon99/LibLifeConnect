@@ -11,7 +11,7 @@
   "createdBy": {
     "gradle": {
       "version": "6.7",
-      "buildId": "j5hkstv7ojd4veqt64ltzvubmu"
+      "buildId": "n7pponfic5bzxhoddk6urgkkju"
     }
   },
   "variants": [
@@ -30,11 +30,11 @@
         {
           "name": "library-1.0.jar",
           "url": "library-1.0.jar",
-          "size": 8878,
-          "sha512": "d045193886878867a6a09569436df8d03352c15e8c8d6b61ceb4576a13a9096802d406d5ad7a018a4f3c58e6c101b97610af8f188ee2f737c3a90f82c86580c0",
-          "sha256": "fe0f34f63fd98b33ff726445e187496dc24c4da23c2a9d32896d8b26ff323742",
-          "sha1": "e168fa514b0574e6f0648dc2cb0334bb39573b91",
-          "md5": "fe356f21515f1d903438536834641503"
+          "size": 22293,
+          "sha512": "26d1e3ffeb1caf2aa6e0e22839c782adb24c28d31e4f0b5df306d6c49aa67577f0894d19e9b15a0aa2a4ce615435463528056335df9fdd3cc0b00a4b987d480c",
+          "sha256": "f7dca148dd7b04e86c5ba620ec9c4d0faaac965531e62dc51c29983ced250cfe",
+          "sha1": "9b95c76e0e1f806453b4fb7a5c98aeea615cf9d5",
+          "md5": "89eefedc233873e4ee44213d5108b415"
         }
       ]
     },
@@ -76,11 +76,11 @@
         {
           "name": "library-1.0.jar",
           "url": "library-1.0.jar",
-          "size": 8878,
-          "sha512": "d045193886878867a6a09569436df8d03352c15e8c8d6b61ceb4576a13a9096802d406d5ad7a018a4f3c58e6c101b97610af8f188ee2f737c3a90f82c86580c0",
-          "sha256": "fe0f34f63fd98b33ff726445e187496dc24c4da23c2a9d32896d8b26ff323742",
-          "sha1": "e168fa514b0574e6f0648dc2cb0334bb39573b91",
-          "md5": "fe356f21515f1d903438536834641503"
+          "size": 22293,
+          "sha512": "26d1e3ffeb1caf2aa6e0e22839c782adb24c28d31e4f0b5df306d6c49aa67577f0894d19e9b15a0aa2a4ce615435463528056335df9fdd3cc0b00a4b987d480c",
+          "sha256": "f7dca148dd7b04e86c5ba620ec9c4d0faaac965531e62dc51c29983ced250cfe",
+          "sha1": "9b95c76e0e1f806453b4fb7a5c98aeea615cf9d5",
+          "md5": "89eefedc233873e4ee44213d5108b415"
         }
       ]
     }

@@ -1,3 +1,4 @@
+package com.zackmon99.android.libLifeConnect
 import java.util.*
 import com.google.gson.annotations.SerializedName
 
